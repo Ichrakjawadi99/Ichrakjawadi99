@@ -51,7 +51,7 @@ I'm a **Mobile & Web Developer** 💻📱 passionate about turning ideas into re
 ### 📫 Let's Connect!
 
 📧 **Email**: ichrak.jawadi@isimg.tn  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ichrakjawadi)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ichrak-jawadi-a25292221/)  
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white)](https://github.com/IchrakJaouadi)
 
 ---
