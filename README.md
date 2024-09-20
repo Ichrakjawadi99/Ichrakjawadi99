@@ -1,6 +1,6 @@
 # Hey there, I'm Ichrak Jawadi! 👋🚀
 
-I'm a **Mobile & Web Developer** 💻📱 passionate about turning ideas into reality using innovative technologies. Currently pursuing a **Master's in Embedded Systems & IoT** 🛠️ (graduating in July 2024), I love building projects that make life better! With a solid foundation in **Industrial Computing**, I specialize in both **web** and **mobile** development, with a sprinkle of **AI** magic! 🌟
+I'm a **Mobile & Web Developer** 💻📱 passionate about turning ideas into reality using innovative technologies. I hold a **Master's in Embedded Systems & IoT** 🛠️ and have a strong foundation in **Industrial Computing**. I love building innovative projects that make life better, from mobile apps to cutting-edge web solutions with a touch of **AI**! 🌟
 
 ---
 
@@ -28,7 +28,7 @@ I'm a **Mobile & Web Developer** 💻📱 passionate about turning ideas into re
 
 - **Innovatilab** (Oct 2021 - Oct 2022): Worked on cutting-edge web development projects. 🌐
 - **Freelance Developer** (June 2022 - Present): Delivered various mobile and web projects to happy clients! 🎉
-- **Innovatilab** (Out 2024 - Present): Currently building exciting mobile and web solutions. 💡
+- **Innovatilab** (Oct 2024 - Present): Currently building exciting mobile and web solutions. 💡
 
 ---
 
